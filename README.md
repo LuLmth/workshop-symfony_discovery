@@ -14,12 +14,12 @@ Ce Workshop est réalisé dans le but que vous découvriez le framework Symfony 
 
 Tout d'abord, vérifions si vous avez bien PHP d'installer sur votre machine ainsi que toutes les extensions nécessaires à Symfony :
 
-*Fedora*
+**Fedora**
 ```sh
 sudo dnf install php php-cli php-intl php-ctype php-iconv php-json php-simplexml php-tokenizer
 ```
 
-*Ubuntu*
+**Ubuntu**
 ```sh
 sudo apt install php php-cli php-intl php-ctype php-iconv php-json php-simplexml php-tokenizer
 ```
