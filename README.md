@@ -13,3 +13,7 @@ Ce Workshop est réalisé dans le but que vous découvriez le framework Symfony 
 ## Installation
 
 Pour créer votre application Symfony, suivez les instructions du <a href="https://github.com/LucasLamothe/workshop-symfony_discovery/wiki/Installation-Symfony" target="_blank">Wiki</a>.
+
+## Auteur
+
+<a href="mailto:lucas@lamothe.eu">Lucas LAMOTHE</a>
