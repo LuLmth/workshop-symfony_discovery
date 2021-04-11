@@ -16,19 +16,6 @@ Pour créer votre application Symfony, suivez les instructions du <a href="https
 
 ## Exercices
 
-# Exercice 1
-
-Vous allez devoir créer un Controller Symfony. Grâce à la console Symfony intégré à votre projet vous allez pouvoir créer facilement votre controller, lui définir une route ainsi qu'afficher son template.
-
-Accéder à la console, avec la CLI de Symfony :
-```sh
-  symfony console
-```
-
-Sans la CLI, à la racine de votre projet :
-```sh
-  php bin/console
-```
 
 ## Auteur
 
