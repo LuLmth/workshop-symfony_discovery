@@ -22,7 +22,7 @@ symfony console doctrine:database:create
 
 # Exercice 1
 
-Vous allez devoir créer un Controller Symfony. Grâce à la console Symfony, vous allez pouvoir créer facilement votre Controller, lui définir une route ainsi qu'afficher son template avec des paramètres ou non.
+**1.** Vous allez devoir créer un Controller Symfony. Grâce à la console Symfony, vous allez pouvoir créer facilement votre Controller, lui définir une route ainsi qu'afficher son template avec des paramètres ou non.
 
 ### Controller
 Nom : *HomeController*
@@ -39,6 +39,6 @@ Titre de la page : *Accueil*
 <br />
 Body : un H1 avec inscrit *Bienvenue sur le site [website_name] !"
 
-Maintenant, que ce passe-t-il si [website_name] n'existe pas ou est null ? Il faudrait peut-être voir comment intégrer des conditions directement dans notre template Twig.
+**2.** Maintenant, que ce passe-t-il si [website_name] n'existe pas ou est null ? Il faudrait peut-être voir comment intégrer des conditions directement dans notre template Twig.
 
 # Exercice 2
