@@ -76,4 +76,4 @@ Vous allez devoir comprendre comment utiliser les Fixtures. Les Fixtures sont ut
 
 # Exercise 4
 
-Dans cet exercise, vous allez maintenant récupérer, depuis votre controller, les films que vous avez sauvegardés en base de données et les afficher dans votre vue.
+Dans cet exercice, vous allez maintenant récupérer, depuis votre controller, les films que vous avez sauvegardés en base de données et les afficher dans votre vue. Pour cela, vous allez apprendre à utiliser les Repository. Il y a déjà des méthodes de disponible de base mais vous pouvez toujours créer vos propres méthodes en utilisant le QueryBuilder.
