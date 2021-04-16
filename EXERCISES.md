@@ -82,4 +82,15 @@ Vous allez devoir comprendre comment utiliser les Fixtures. Les Fixtures sont ut
 
 # Exercise 4
 
-Dans cet exercice, vous allez maintenant récupérer, depuis votre controller, les films que vous avez sauvegardés en base de données et les afficher dans votre vue. Pour cela, vous allez apprendre à utiliser les Repository. Il y a déjà des méthodes de disponible de base mais vous pouvez toujours créer vos propres méthodes en utilisant le QueryBuilder.
+Dans cet exercice, vous allez maintenant récupérer, depuis votre controller, les films que vous avez sauvegardés en base de données et les afficher dans votre vue. Pour cela, vous allez apprendre à utiliser les Repository. Il y a déjà des méthodes de disponible de base mais vous pouvez toujours créer vos propres méthodes en utilisant le QueryBuilder (ce sont vos requêtes SQL en base).
+
+# Exercise 5
+
+***1.*** Vous allez voir comment créer facilement un formulaire. Celui-ci va nous permettre d'ajouter de nouveaux films à notre applications.
+
+### Formulaire
+Nom : *MovieType*
+Entité lié : *Movie*
+
+***2.*** Le formulaire que vous venez de créer doit être visible sur une autre page que la *app.home*. Vous allez donc en créer une nouvelle (le mieux reste de créer un nouveau Controller et une Vue destinés aux films).
+Il va falloir que vous fassiez des recherches dans la documentation sur les formulaires. Comment les créer dans notre Controller ? Comment les envoyés et les afficher dans notre Vue ? Ainsi que comment récupérer les informations du formulaires et les envoyés sauvegarder en base ?
