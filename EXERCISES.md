@@ -53,12 +53,17 @@ Nom : *Movie*
 
 ### Propriétés
 Name : *title*
+<br />
 Type : *String [255]* | *Not null*
 
+<br />
+
 Name : *description*
+<br />
 Type : *Text* | *Can be null*
 
 Name : *duration*
+<br />
 Type : *Dateinterval* | *Not null*
 
 ***2.*** Maintenant, vous allez faire en sorte de créer une "version" de votre entité et de migrer cette version en base de donnée.
