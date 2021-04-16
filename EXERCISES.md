@@ -1,6 +1,6 @@
 # Tips
 
-Dans chacun de votre projet Symfony, vous avez a disposition une console intégré avec une multitude de commande.
+***1.*** Dans chacun de votre projet Symfony, vous avez a disposition une console intégré avec une multitude de commande.
 
 Pour accéder à la console, avec la CLI de Symfony :
 ```sh
@@ -12,10 +12,7 @@ Sans la CLI, à la racine de votre projet :
   php bin/console
 ```
 
-Pour les vues, Symfony utilise le template engine PHP **Twig**, voici la documentation :
-```url
-https://twig.symfony.com/
-```
+***2.*** Pour les vues, Symfony utilise le template engine PHP **Twig**, voici la <a href="https://twig.symfony.com/">documentation</a>.
 
 # Exercice 0
 
