@@ -12,6 +12,11 @@ Sans la CLI, à la racine de votre projet :
   php bin/console
 ```
 
+Pour les vues, Symfony utilise le template engine PHP **Twig**, voici la documentation :
+```url
+https://twig.symfony.com/
+```
+
 # Exercice 0
 
 Vous allez tout d'abord setup votre base de donnée, en modifiant les informations du .env de votre application Symfony. Puis, grâce à la console vous allez pouvoir créer votre base de donnée.
@@ -60,3 +65,11 @@ Name : *duration*
 Type : *Dateinterval* | *Not null*
 
 ***2.*** Maintenant, vous allez faire en sorte de créer une "version" de votre entité et de migrer cette version en base de donnée.
+
+# Exercice 3
+
+Vous allez devoir comprendre comment utiliser les Fixtures. Les Fixtures sont utilisés pour charger de fausses données en base. Libre à vous de mettre les fausses données que vous souhaitez, mais faites au minimum 5 faux films. Une fois que vous avez fait votre fixture, vous allez pouvoir la load et voir les données qu'y ont été flush en base.
+
+# Exercise 4
+
+Dans cet exercise, vous allez maintenant récupérer, depuis votre controller, les films que vous avez sauvegardés en base de données et les afficher dans votre vue.
