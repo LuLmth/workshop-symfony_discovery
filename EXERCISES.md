@@ -62,6 +62,8 @@ Name : *description*
 <br />
 Type : *Text* | *Can be null*
 
+<br />
+
 Name : *duration*
 <br />
 Type : *Dateinterval* | *Not null*
