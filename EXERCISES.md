@@ -42,3 +42,21 @@ Body : un H1 avec inscrit *Bienvenue sur le site [website_name] !"
 ***2.*** Maintenant, que ce passe-t-il si [website_name] n'existe pas ou est null ? Il faudrait peut-être voir comment intégrer des conditions directement dans notre template Twig.
 
 # Exercice 2
+
+***1.*** Vous allez devoir créer une Entité Symfony. Grâce à la console Symfony, vous allez pouvoir créer facilement Entité que vous pourrez sauvegarder facilement en base de données et pouvoir les intégrer à vos vues.
+Cette entité aura pour but de représenter un film et ses caractéristiques qui le définisse.
+
+### Entité
+Nom : *Movie*
+
+### Propriétés
+Name : *title*
+Type : *String [255]* | *Not null*
+
+Name : *description*
+Type : *Text* | *Can be null*
+
+Name : *duration*
+Type : *Dateinterval* | *Not null*
+
+***2.*** Maintenant, vous allez faire en sorte de créer une "version" de votre entité et de migrer cette version en base de donnée.
