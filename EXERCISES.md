@@ -64,6 +64,12 @@ Type : *Text* | *Can be null*
 
 <br />
 
+Name : *releaseDate*
+<br />
+Type : *Date* | *Not null*
+
+<br />
+
 Name : *duration*
 <br />
 Type : *Dateinterval* | *Not null*
