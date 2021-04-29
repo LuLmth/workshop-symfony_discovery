@@ -12,7 +12,9 @@ Sans la CLI, à la racine de votre projet :
   php bin/console
 ```
 
-***2.*** Pour les vues, Symfony utilise le template engine PHP **Twig**, voici la <a href="https://twig.symfony.com/">documentation</a>.
+***2.*** La <a href="https://symfony.com/doc/current/index.html">documentation de Symfony</a> est bien fourni et vous pourrez y trouver toutes les informations nécessaires au bon déroulement de ce workshop.
+
+***3.*** Pour les vues, Symfony utilise le template engine PHP **Twig**, voici la <a href="https://twig.symfony.com/">documentation</a>.
 
 # Exercice 0
 
