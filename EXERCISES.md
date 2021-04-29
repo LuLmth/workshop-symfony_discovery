@@ -58,6 +58,10 @@ Body : un H1 avec inscrit "Bienvenue sur le site [website_name] !"
 ***1.*** Vous allez devoir créer une Entité Symfony. Grâce à la console Symfony, vous allez pouvoir créer facilement Entité que vous pourrez sauvegarder facilement en base de données et pouvoir les intégrer à vos vues.
 Cette entité aura pour but de représenter un film et ses caractéristiques qui le définisse.
 
+```sh
+  symfony console make:entity
+```
+
 ### Entité
 Nom : *Movie*
 
@@ -84,7 +88,7 @@ Name : *duration*
 <br />
 Type : *Dateinterval* | *Not null*
 
-***2.*** Maintenant, vous allez faire en sorte de créer une "version" de votre entité et de migrer cette version en base de donnée.
+***2.*** Maintenant, vous allez faire en sorte de créer une migration ("version") de votre entité et de migrer cette version en base de donnée. Suivez les instructions énoncées par la CLI quand vous avez créé votre entité.
 
 # Exercice 3
 
@@ -97,6 +101,10 @@ Dans cet exercice, vous allez maintenant récupérer, depuis votre controller, l
 # Exercise 5
 
 ***1.*** Vous allez voir comment créer facilement un formulaire. Celui-ci va nous permettre d'ajouter de nouveaux films à notre applications.
+
+```sh
+  symfony console make:form
+```
 
 ### Formulaire
 Nom : *MovieType*
