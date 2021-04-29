@@ -32,6 +32,10 @@ symfony console doctrine:database:create
 
 ***1.*** Vous allez devoir créer un Controller Symfony. Grâce à la console Symfony, vous allez pouvoir créer facilement votre Controller, lui définir une route ainsi qu'afficher son template avec des paramètres ou non.
 
+```sh
+  symfony console make:entity
+```
+
 ### Controller
 Nom : *HomeController*
 <br />
