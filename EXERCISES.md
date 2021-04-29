@@ -20,6 +20,10 @@ Sans la CLI, à la racine de votre projet :
 
 Vous allez tout d'abord setup votre base de donnée, en modifiant les informations du .env de votre application Symfony. Puis, grâce à la console vous allez pouvoir créer votre base de donnée.
 
+```
+DATABASE_URL="mysql://root:password@127.0.0.1:3306/workshop-symfony-discovery?serverVersion=5.7"
+```
+
 ```sh
 symfony console doctrine:database:create
 ```
