@@ -94,3 +94,21 @@ Entité lié : *Movie*
 
 ***2.*** Le formulaire que vous venez de créer doit être visible sur une autre page que la *app.home*. Vous allez donc en créer une nouvelle (le mieux reste de créer un nouveau Controller et une Vue destinés aux films).
 Il va falloir que vous fassiez des recherches dans la documentation sur les formulaires. Comment les créer dans notre Controller ? Comment les envoyés et les afficher dans notre Vue ? Ainsi que comment récupérer les informations du formulaires et les envoyés sauvegarder en base ?
+
+# Exercise 6
+
+Dans cet exercice, vous allez apprendre à utiliser le système de traduction de Symfony. Le but va être de créer une nouvelle page, qui contiendra un titre, qui aura deux versions, une en Anglais et une en Français.
+
+### Route
+Path : */en/international*
+<br />
+Name : *app.international*
+<br />
+Body : un H1 avec inscrit *Welcome to the international section of this website"
+
+### Route
+Path : */fr/international*
+<br />
+Name : *app.international*
+<br />
+Body : un H1 avec inscrit *Bienvenue sur la section internationale de notre site"
