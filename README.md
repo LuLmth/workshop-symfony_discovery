@@ -22,6 +22,8 @@ Vous allez maintenant pouvoir commencer les exercices de ce Workshop. Ils sont t
 
 Veuillez remplir ce forms à la fin du Workshop pour me donner un petit feedback : https://forms.gle/CzCcZNP2MTUGFcCh6
 
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeNxhqXTW7DvrHLthoSS0NbZBHTtp4RBFHNUdcxoSyQyxM3fg/viewform?embedded=true" width="640" height="1704" frameborder="0" marginheight="0" marginwidth="0">Chargement…</iframe>
+
 ## Auteur
 
 <a href="mailto:lucas@lamothe.eu">Lucas LAMOTHE</a>
