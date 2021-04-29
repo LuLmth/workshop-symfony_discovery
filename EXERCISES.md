@@ -41,7 +41,7 @@ Nom : *app.home*
 ### Template
 Titre de la page : *Accueil*
 <br />
-Body : un H1 avec inscrit *Bienvenue sur le site [website_name] !"
+Body : un H1 avec inscrit "Bienvenue sur le site [website_name] !"
 
 ***2.*** Maintenant, que ce passe-t-il si [website_name] n'existe pas ou est null ? Il faudrait peut-être voir comment intégrer des conditions directement dans notre template Twig.
 
@@ -106,11 +106,11 @@ Path : */en/international*
 <br />
 Name : *app.international*
 <br />
-Body : un H1 avec inscrit *Welcome to the international section of this website"
+Body : un H1 avec inscrit "Welcome to the international section of this website"
 
 ### Route
 Path : */fr/international*
 <br />
 Name : *app.international*
 <br />
-Body : un H1 avec inscrit *Bienvenue sur la section internationale de notre site"
+Body : un H1 avec inscrit "Bienvenue sur la section internationale de notre site"
