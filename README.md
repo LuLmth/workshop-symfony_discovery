@@ -18,6 +18,10 @@ Pour créer votre application Symfony, suivez les instructions du <a href="https
 
 Vous allez maintenant pouvoir commencer les exercices de ce Workshop. Ils sont tous énoncés dans le fichier <a href="https://github.com/LucasLamothe/workshop-symfony_discovery/blob/master/EXERCISES.md">EXERCISES.md</a>
 
+## Feedback
+
+Veuillez remplir ce forms à la fin du Workshop pour me donner un petit feedback : https://forms.gle/CzCcZNP2MTUGFcCh6
+
 ## Auteur
 
 <a href="mailto:lucas@lamothe.eu">Lucas LAMOTHE</a>
